@@ -1,0 +1,6 @@
+To open the project, unzip the file first.
+Start Unity and then on the startup screen click Open. Find the project folder where you unzipped it and hit open.
+If you don't have Unity's splash screen, simply got to File/Open Project from inside Unity.
+Don't copy paste the files into an existing project.
+
+If you have any more questions, contact me here: unityguru23@gmail.com
